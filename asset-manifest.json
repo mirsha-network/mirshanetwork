@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mirshanetwork/static/css/main.073c9b0a.css",
+    "main.js": "/mirshanetwork/static/js/main.6e47b591.js",
+    "static/js/787.fdf631bb.chunk.js": "/mirshanetwork/static/js/787.fdf631bb.chunk.js",
+    "static/media/logo.svg": "/mirshanetwork/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mirshanetwork/index.html",
+    "main.073c9b0a.css.map": "/mirshanetwork/static/css/main.073c9b0a.css.map",
+    "main.6e47b591.js.map": "/mirshanetwork/static/js/main.6e47b591.js.map",
+    "787.fdf631bb.chunk.js.map": "/mirshanetwork/static/js/787.fdf631bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6e47b591.js"
+  ]
+}
