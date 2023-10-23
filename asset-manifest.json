@@ -1,16 +1,26 @@
 {
   "files": {
     "main.css": "/mirshanetwork/static/css/main.6ccd67d7.css",
-    "main.js": "/mirshanetwork/static/js/main.49a36edb.js",
+    "main.js": "/mirshanetwork/static/js/main.a78965f4.js",
     "static/js/787.0fa69260.chunk.js": "/mirshanetwork/static/js/787.0fa69260.chunk.js",
+    "static/media/Shu.png": "/mirshanetwork/static/media/Shu.fd0449b9c2a9cd5ba54d.png",
+    "static/media/Tio.png": "/mirshanetwork/static/media/Tio.09625d6c41049f2825f2.png",
+    "static/media/Demiurge Stella.png": "/mirshanetwork/static/media/Demiurge Stella.7351ede37c55e6199cde.png",
+    "static/media/Saeran.png": "/mirshanetwork/static/media/Saeran.77135fac322186960b6c.png",
+    "static/media/Alice.png": "/mirshanetwork/static/media/Alice.c8f8578cff46d502840c.png",
+    "static/media/Noa.png": "/mirshanetwork/static/media/Noa.344778b03e72a6760e5d.png",
+    "static/media/Veronica.png": "/mirshanetwork/static/media/Veronica.bef08860d9b23fb60c42.png",
+    "static/media/Laplace.png": "/mirshanetwork/static/media/Laplace.5cd655d3b7a31ebffe12.png",
+    "static/media/Rin.png": "/mirshanetwork/static/media/Rin.74499e97709a553861fb.png",
+    "static/media/Kate.png": "/mirshanetwork/static/media/Kate.b1951853f87127bd0203.png",
     "static/media/logo.svg": "/mirshanetwork/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mirshanetwork/index.html",
     "main.6ccd67d7.css.map": "/mirshanetwork/static/css/main.6ccd67d7.css.map",
-    "main.49a36edb.js.map": "/mirshanetwork/static/js/main.49a36edb.js.map",
+    "main.a78965f4.js.map": "/mirshanetwork/static/js/main.a78965f4.js.map",
     "787.0fa69260.chunk.js.map": "/mirshanetwork/static/js/787.0fa69260.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ccd67d7.css",
-    "static/js/main.49a36edb.js"
+    "static/js/main.a78965f4.js"
   ]
 }
